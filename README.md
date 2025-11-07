@@ -13,6 +13,14 @@ It’s useful for privacy protection in photos or datasets where only specific p
 
 ---
 
-## 🧩 Folder Structure
+
+---
+
+## ⚙️ Requirements
+Install dependencies before running the script:
+```bash
+pip install face_recognition opencv-python
+
+
 
 

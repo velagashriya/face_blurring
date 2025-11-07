@@ -1,0 +1,24 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment folders
+env/
+venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+
+# Ignore output images (if you don’t want them tracked)
+output_images/
+
+# Ignore temporary or backup files
+*.log
+*.tmp
